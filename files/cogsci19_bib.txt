@@ -1,0 +1,9 @@
+@InProceedings{sun_cogsci19_slang,
+	author = {Sun, Zhewei and Zemel, Richard and Xu, Yang},
+	year = {2019},
+	pages = {2898--2904},
+	title = {Slang Generation as Categorization},
+	booktitle = {Proceedings of the 41st Annual Conference of the
+	Cognitive Science Society},
+	publisher = {Cognitive Science Society}
+}
