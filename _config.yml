@@ -24,11 +24,11 @@ author:
   avatar           : "portrait-2024.jpg"
   name             : "Zhewei Sun"
   pronouns         : "he/him/his" # example: "she/her"  
-  bio              : "Ph.D. Candidate at the University of Toronto"
-  location         : "Toronto, ON"
-  employer         : "University of Toronto"
+  bio              : "Research Assistant Professor @ TTIC"
+  location         : "Chicago, IL"
+  employer         : "TTIC"
   url              : # URL
-  email            : "zheweisun [at] cs.toronto.edu" 
+  email            : "zsun [at] ttic [dot] edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

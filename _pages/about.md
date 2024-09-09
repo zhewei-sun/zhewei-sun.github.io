@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-**I will be joining the [Toyota Technological Institute at Chicago (TTIC)](http://ttic.edu/) as a Research Assistant Professor starting Fall 2024. If you are interested in working or collaborating with me on projects related to NLP or CL, please feel free to check out my [prospective students]({{site.url}}/prospective/) page and consider reaching out!**
+**If you are interested in working or collaborating with me on projects related to NLP or CL, please feel free to check out my [prospective students]({{site.url}}/prospective/) page and consider reaching out!**
 
 ## About Me
 
-Hi, I’m Zhewei, a computer science Ph.D. candidate at the  [University of Toronto](https://www.utoronto.ca/) advised by Professor [Yang Xu](http://www.cs.toronto.edu/~yangxu/)  in the  [Computational Lingusitics Group](http://www.cs.toronto.edu/compling/index.html). Prior to Toronto, I received a M.S. degree from the [Georgia Institute of Technology](https://gatech.edu/)  (working with Professor [Jacob Eisenstein](https://jacobeisenstein.github.io)) and a B.S. degree from the [University of Waterloo](https://uwaterloo.ca).
+Hi, I'm Zhewei, a Research Assistant Professor at [Toyota Technological Institute at Chicago (TTIC)](http://ttic.edu/) in the [Speech and Language Group](https://home.ttic.edu/~klivescu/SLATTIC/index.htm).
+
+Prior to joining TTIC, I was a computer science Ph.D. candidate at the [University of Toronto](https://www.utoronto.ca/) advised by Professor [Yang Xu](http://www.cs.toronto.edu/~yangxu/)  in the [Computational Lingusitics Group](http://www.cs.toronto.edu/compling/index.html). I have also received an M.S. in CS degree in from the [Georgia Institute of Technology](https://gatech.edu/) (working with Professor [Jacob Eisenstein](https://jacobeisenstein.github.io)) and a B.CS. degree from the [University of Waterloo](https://uwaterloo.ca).
 
 ## Research Interests
 
