@@ -11,7 +11,7 @@ redirect_from:
 
 ## About Me
 
-Hi, I'm Zhewei, a Research Assistant Professor at [Toyota Technological Institute at Chicago (TTIC)](http://ttic.edu/) in the [Speech and Language Group](https://home.ttic.edu/~klivescu/SLATTIC/index.htm).
+Hi, I'm Zhewei, a Research Assistant Professor at [Toyota Technological Institute at Chicago (TTIC)](http://ttic.edu/) in the [Speech and Language Group](https://slattic.ttic.edu/).
 
 Prior to joining TTIC, I was a computer science Ph.D. candidate at the [University of Toronto](https://www.utoronto.ca/) advised by Professor [Yang Xu](http://www.cs.toronto.edu/~yangxu/)  in the [Computational Lingusitics Group](http://www.cs.toronto.edu/compling/index.html). I have also received an M.S. in CS degree in from the [Georgia Institute of Technology](https://gatech.edu/) (working with Professor [Jacob Eisenstein](https://jacobeisenstein.github.io)) and a B.CS. degree from the [University of Waterloo](https://uwaterloo.ca).
 
