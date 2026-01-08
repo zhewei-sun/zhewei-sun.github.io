@@ -27,13 +27,13 @@ To address these challenges, I employ computational methods from machine learnin
 
 ## Selected Publications
 
-- **Zhewei Sun**, Qian Hu, Rahul Gupta, Richard Zemel, and Yang Xu. "Toward Informal Language Processing: Knowledge of Slang in Large Language Models". *NAACL 2024 (To appear)*.
+- Siyang Wu and **Zhewei Sun**. "How do Language Models Generate Slang: A Systematic Comparison between Human and Machine-Generated Slang Usages". *EMNLP 2025 Findings*.
 
-    [[Paper]](https://arxiv.org/abs/2404.02323) [[GitHub]](https://github.com/amazon-science/slang-llm-benchmark) 
+    [[Paper]](https://aclanthology.org/2025.findings-emnlp.348/) [[GitHub]](https://github.com/siyangwu1/LLM-Slang-Dictionary) [[BibTex]]({{site.url}}/files/emnlp25_bib.txt)
 
-- **Zhewei Sun** and Yang Xu. "Tracing Semantic Variation in Slang". *EMNLP 2022*.
+- **Zhewei Sun**, Qian Hu, Rahul Gupta, Richard Zemel, and Yang Xu. "Toward Informal Language Processing: Knowledge of Slang in Large Language Models". *NAACL 2024*.
 
-    [[Paper]](https://aclanthology.org/2022.emnlp-main.84/) [[GitHub]](https://github.com/zhewei-sun/slangsemvar) [[Slides]]({{site.url}}/files/emnlp22_variation_slides.pptx) [[Video]](https://youtu.be/_M0Ha-uemqU) [[BibTex]]({{site.url}}/files/emnlp22_bib.txt)
+    [[Paper]](https://aclanthology.org/2024.naacl-long.94/) [[GitHub]](https://github.com/amazon-science/slang-llm-benchmark) [[Slides]]({{site.url}}/files/naacl24_slang_llm_slides.pptx) [[BibTex]]({{site.url}}/files/naacl24_bib.txt)
 
 - **Zhewei Sun**, Richard Zemel, and Yang Xu. "A Computational Framework for Slang Generation". *TACL Vol. 9 (2021)*.
 

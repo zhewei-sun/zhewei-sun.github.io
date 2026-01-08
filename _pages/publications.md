@@ -5,13 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 
+- **How do Language Models Generate Slang: A Systematic Comparison between Human and Machine-Generated Slang Usages**
+
+    Siyang Wu and **Zhewei Sun**
+    
+    In Findings of the Association for Computational Linguistics: EMNLP 2025, Long Paper.
+
+    [[Paper]](https://aclanthology.org/2025.findings-emnlp.348/) [[GitHub]](https://github.com/siyangwu1/LLM-Slang-Dictionary) [[BibTex]]({{site.url}}/files/emnlp25_bib.txt)
+
 - **Toward Informal Language Processing: Knowledge of Slang in Large Language Models**
 
     **Zhewei Sun**, Qian Hu, Rahul Gupta, Richard Zemel, and Yang Xu
     
-    To appear in Proceedings of the 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2024), Long Paper, Oral.
+    In Proceedings of the 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2024), Long Paper, Oral.
 
-    [[Paper]](https://arxiv.org/abs/2404.02323) [[GitHub]](https://github.com/amazon-science/slang-llm-benchmark) 
+    [[Paper]](https://aclanthology.org/2024.naacl-long.94/) [[GitHub]](https://github.com/amazon-science/slang-llm-benchmark) [[Slides]]({{site.url}}/files/naacl24_slang_llm_slides.pptx) [[BibTex]]({{site.url}}/files/naacl24_bib.txt)
 
 - **Natural Language Processing for Slang**
 
