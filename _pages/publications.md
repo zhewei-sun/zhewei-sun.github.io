@@ -5,11 +5,35 @@ permalink: /publications/
 author_profile: true
 ---
 
+- **Domain-Specific Jargon in Large Language Models: A Comparative Analysis between General-Purpose and Specialist Models**
+
+    Darin Keng and **Zhewei Sun**
+    
+    To appear in Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026), Long Paper.
+
+    [[Paper]](https://arxiv.org/abs/2609.13556) [[GitHub]](https://github.com/darinkeng/domain-jargon-llm)
+
+- **Measuring, Localizing, and Reducing the AI-Like Writing Style of Post-Trained LLMs**
+
+    Aniket Anand, Janvijay Singh, **Zhewei Sun**, Dilek Hakkani-Tür, and Nick Feamster
+    
+    To appear in Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026), Long Paper.
+
+    [[Paper]](https://arxiv.org/abs/2605.30526) [[GitHub]](https://github.com/alignment-signature/alignment-signature)
+
+- **From Utterances to Networks: Modelling Slang Adoption and Diffusion Across Subreddits**
+
+    Xiaoning Wang, Ted Underwood, and **Zhewei Sun**
+    
+    To appear in Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026), Long Paper.
+
+    [[Paper]](https://arxiv.org/abs/2609.25669)
+
 - **How do Language Models Generate Slang: A Systematic Comparison between Human and Machine-Generated Slang Usages**
 
     Siyang Wu and **Zhewei Sun**
     
-    In Findings of the Association for Computational Linguistics: EMNLP 2025, Long Paper.
+    In Findings of the Association for Computational Linguistics: EMNLP 2025, Long Paper, Poster.
 
     [[Paper]](https://aclanthology.org/2025.findings-emnlp.348/) [[GitHub]](https://github.com/siyangwu1/LLM-Slang-Dictionary) [[BibTex]]({{site.url}}/files/emnlp25_bib.txt)
 

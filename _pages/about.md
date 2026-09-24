@@ -27,16 +27,24 @@ To address these challenges, I employ computational methods from machine learnin
 
 ## Selected Publications
 
+- Darin Keng and **Zhewei Sun**. "Domain-Specific Jargon in Large Language Models: A Comparative Analysis between General-Purpose and Specialist Models". *EMNLP 2026*.
+
+	[[Paper]](https://arxiv.org/abs/2609.13556) [[GitHub]](https://github.com/darinkeng/domain-jargon-llm)
+
+- Xiaoning Wang, Ted Underwood, and **Zhewei Sun**. "From Utterances to Networks: Modelling Slang Adoption and Diffusion Across Subreddits". *EMNLP 2026*.
+
+	[[Paper]](https://arxiv.org/abs/2609.25669)
+
 - Siyang Wu and **Zhewei Sun**. "How do Language Models Generate Slang: A Systematic Comparison between Human and Machine-Generated Slang Usages". *EMNLP 2025 Findings*.
 
     [[Paper]](https://aclanthology.org/2025.findings-emnlp.348/) [[GitHub]](https://github.com/siyangwu1/LLM-Slang-Dictionary) [[BibTex]]({{site.url}}/files/emnlp25_bib.txt)
 
-- **Zhewei Sun**, Qian Hu, Rahul Gupta, Richard Zemel, and Yang Xu. "Toward Informal Language Processing: Knowledge of Slang in Large Language Models". *NAACL 2024*.
+<!-- - **Zhewei Sun**, Qian Hu, Rahul Gupta, Richard Zemel, and Yang Xu. "Toward Informal Language Processing: Knowledge of Slang in Large Language Models". *NAACL 2024*.
 
-    [[Paper]](https://aclanthology.org/2024.naacl-long.94/) [[GitHub]](https://github.com/amazon-science/slang-llm-benchmark) [[Slides]]({{site.url}}/files/naacl24_slang_llm_slides.pptx) [[BibTex]]({{site.url}}/files/naacl24_bib.txt)
+    [[Paper]](https://aclanthology.org/2024.naacl-long.94/) [[GitHub]](https://github.com/amazon-science/slang-llm-benchmark) [[Slides]]({{site.url}}/files/naacl24_slang_llm_slides.pptx) [[BibTex]]({{site.url}}/files/naacl24_bib.txt) -->
 
-- **Zhewei Sun**, Richard Zemel, and Yang Xu. "A Computational Framework for Slang Generation". *TACL Vol. 9 (2021)*.
+<!-- - **Zhewei Sun**, Richard Zemel, and Yang Xu. "A Computational Framework for Slang Generation". *TACL Vol. 9 (2021)*.
 
-    [[Paper]](https://aclanthology.org/2021.tacl-1.28/) [[GitHub]](https://github.com/zhewei-sun/slanggen) [[Slides]]({{site.url}}/files/tacl21_slang_slides.pptx) [[Video]](https://www.youtube.com/watch?v=vhRWdP4FEak) [[BibTex]]({{site.url}}/files/tacl21_bib.txt)
+    [[Paper]](https://aclanthology.org/2021.tacl-1.28/) [[GitHub]](https://github.com/zhewei-sun/slanggen) [[Slides]]({{site.url}}/files/tacl21_slang_slides.pptx) [[Video]](https://www.youtube.com/watch?v=vhRWdP4FEak) [[BibTex]]({{site.url}}/files/tacl21_bib.txt) -->
 
 For a full list of my publications, [see here]({{site.url}}/publications/).
